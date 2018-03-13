@@ -7,7 +7,9 @@ In an attempt to consolidate data on a single cloud enterprise platform, managin
 
 ## Methods
 *Transform the unstructured system logs to analysable data, using Python parser.
+
 *Conduct data mining and insight exploration with Apache Spark and PySpark.
+
 *Building prediction models with python: python parser package, supervised learning, unsupervised learning, data mining, machine learning, and statistical modeling.
 
 ## Keywords Extraction
